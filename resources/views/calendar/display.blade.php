@@ -12,7 +12,7 @@
             center: 'title'
         },
         slotDuration: '00:10:00',
-        defaultDate: '2017-01-01',
+        initialDate: '2017-01-01',
         editable: true,
         events: '{{ route('calendar.json') }}'
 
